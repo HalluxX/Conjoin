@@ -18,7 +18,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".RegisterActivity" />
-        <activity android:name=".UserAreaActivity"></activity>
+        <activity android:name=".UserAreaActivity"/>
+        <activity android:name=".SearchScreen"/>
+        <activity android:name=".ApplyMapView"/>
+
     </application>
 
 </manifest>

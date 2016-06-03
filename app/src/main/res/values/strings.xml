@@ -1,3 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <resources>
+
     <string name="app_name">Conjoin</string>
+    <string name = "interest_selector">Select your interest</string>]
+    <string-array name="Interest">
+        <item>Art Galleries</item>
+        <item>Tours</item>
+        <item>Out Door Movies</item>
+        <item>Hiking</item>
+        <item>Restaurants</item>
+        <item>Shopping</item>
+        <item>Kids Activities</item>
+        <item>Beach</item>
+        <item>Museums</item>1
+        <item>Night Life</item>
+    </string-array>
+
+
+
 </resources>
